@@ -1,0 +1,1 @@
+Welcome to my version of Minesweeper! Below is the game board. To play simply choose a row and a column that you want to play on and don't play on a bomb. Once the whole board is filled in with numbers that aren't bombs, you win. If you play on a bomb, you lose. There are 15 bombs, so be careful! Goodluck!
